@@ -8,7 +8,7 @@ A curated list of awesome grasping libraries and resources
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
 
-## [Libraries](#awesome-collision-detection)
+## [Libraries](#libraries)
 
 | Name | Features | Languages | Licenses | Code | Popularity |
 |:----:|:--------:|:---------:|:--------:|:----:|:----------:|
@@ -19,6 +19,14 @@ A curated list of awesome grasping libraries and resources
 
 * [Data-Driven Grasp Synthesis - A Survey](https://arxiv.org/pdf/1309.2660.pdf)
 
-## [Other Awesome Lists](#awesome-collision-detection)
+## [Other Awesome Lists](#awesome-grasping)
 
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) - This is a list of various libraries and software for robotics. It's also attempting to provide some comparisons for selected libraries and software.
+
+## [Contributing](#awesome-grasping)
+
+Contributions are very welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first. If you spot any error, please feel free to report.
+
+## [License](#awesome-grasping)
+
+[![unlicense](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/196px-PD-icon.svg.png)](http://unlicense.org/)
