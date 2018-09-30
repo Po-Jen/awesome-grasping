@@ -5,8 +5,8 @@ A curated list of awesome grasping libraries and resources
 * [Libraries](#libraries)
 * [Grasp Implementations](#implementations)
 * [Datasets](#datssets)
-* [Articles](#articles)
 * [Books](#books)
+* [Articles](#articles)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
 
@@ -35,6 +35,11 @@ A curated list of awesome grasping libraries and resources
 | Name | Features | Languages | Licenses | Code | Popularity |
 |:----:|:--------:|:---------:|:--------:|:----:|:----------:|
 | [grasp_multiObject](https://github.com/ivalab/grasp_multiObject) | Robotic grasp dataset for multi-object multi-grasp evaluation with RGB-D data. | Matlab | BSD 2-clause | [github](https://github.com/ivalab/grasp_multiObject) | ![grasp_multiObject](https://img.shields.io/github/stars/ivalab/grasp_multiObject.svg?style=social&label=Star&maxAge=2592000)|
+
+## [Books](#books)
+
+* [Grasping in Robotics](https://www.springer.com/us/book/9781447146636)
+* [Robotic Grasping and Manipulation](https://www.springer.com/us/book/9783319945675)
 
 ## [Articles](#articles)
 
