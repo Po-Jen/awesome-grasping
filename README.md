@@ -38,6 +38,8 @@ A curated list of awesome grasping libraries and resources
 
 ## [Books](#books)
 
+* [A Mathematical Introduction to Robotic Manipulation](https://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-complete.pdf)
+* [Fundamentals Of Robotic Grasping And Fixturing](https://books.google.com.tw/books?id=mlDICgAAQBAJ&printsec=frontcover&hl=zh-TW#v=onepage&q&f=false)
 * [Grasping in Robotics](https://www.springer.com/us/book/9781447146636)
 * [Robotic Grasping and Manipulation](https://www.springer.com/us/book/9783319945675)
 
@@ -55,4 +57,5 @@ Contributions are very welcome! Please read the [contribution guidelines](CONTRI
 
 ## [License](#awesome-grasping)
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg" alt="drawing" width="48" height="48"/>
+
